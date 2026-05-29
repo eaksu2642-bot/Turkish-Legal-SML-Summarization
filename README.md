@@ -1,4 +1,4 @@
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/drive/1DHiRD5KyEXtSHGAs4nB21RS-anwQlVQu#scrollTo=zUSrRhd_Z9aW))]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([BURAYA_COLAB_LINKINI_YAPIŞTIR](https://colab.research.google.com/drive/1DHiRD5KyEXtSHGAs4nB21RS-anwQlVQu#scrollTo=zUSrRhd_Z9aW))
 # Turkish-Legal-SML-Summarization
 Türkçe Hukuki Metinlerin Küçük Dil Modelleri (SML) ile Özetlenmesi ve Performans Analizi - LLM Dersi Final Projesi
 # Türkçe Hukuki Metinlerin Küçük Dil Modelleri (SML) İle Özetlenmesi ve Performans Analizi
