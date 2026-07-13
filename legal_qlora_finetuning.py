@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1DHiRD5KyEXtSHGAs4nB21RS-anwQlVQu
 
 # Dr. Öğr. Üyesi Ali Çetinkaya - Büyük Dil Modelleri (LLM) Dersi Final Projesi
-**Proje Adı:** Türkçe Hukuki Metinlerin Küçük Dil Modelleri (SML) ile Özetlenmesi  
+**Proje Adı:** Türkçe Hukuki Metinlerin Küçük Dil Modelleri (SLM) ile Özetlenmesi  
 **Hazırlayan:** Emrah Aksu (258273001032)  
 **Tarih:** 29 Mayıs 2026
 """
